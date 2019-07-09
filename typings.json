@@ -2,7 +2,7 @@
   "name": "aurelia-dialog",
   "main": "dist/commonjs/aurelia-dialog.d.ts",
   "dependencies": {
-      "aurelia-dependency-injection": "github:aurelia/dependency-injection",
+      "aurelia-dependency-injection": "github:aurelia/dependency-injection@e5e277dfa74d99ee9952f0b731eae4ec30e628ea",
       "aurelia-metadata": "github:aurelia/metadata",
       "aurelia-pal": "github:aurelia/pal",
       "aurelia-templating": "github:aurelia/templating"    
